@@ -9,4 +9,6 @@ require './filters'
 
 # binding.pry
 
-pp @candidates
+# pp @candidates
+
+puts ordered_by_qualification(@candidates)

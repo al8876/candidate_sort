@@ -43,7 +43,7 @@ require 'active_support/all'
   },
   {
     id: 13,
-    years_of_experience: 2,
+    years_of_experience: 3,
     github_points: 328,
     languages: ['Python', 'Ruby', 'JavaScript'],
     date_applied: 4.days.ago.to_date,
